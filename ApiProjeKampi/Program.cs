@@ -19,7 +19,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+//pnfgthyujı
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
