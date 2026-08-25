@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="ApiProjeKampi.WebUI/ApiProjeKampi.WebUI.csproj" Id="601db01d-73ad-4919-9edd-070a81b55aeb" />
   <Project Path="ApiProjeKampi/ApiProjeKampi.csproj" Id="84f2afbe-cb61-4634-8104-33b16c3e394d" />
 </Solution>
