@@ -9,7 +9,7 @@ namespace ApiProjeKampi.Context
         override protected void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             //override tab deyince bağlantı adresimi yazmam için gereken metodu yazdı
-            optionsBuilder.UseSqlServer("Server=DESKTOP-S9Q38VA;initial catalog=ApiYummyDb;integrated" +
+            optionsBuilder.UseSqlServer("Server=localhost;initial catalog=ApiYummyDb;integrated" +
                 " security=true;");
 
         }
