@@ -26,6 +26,7 @@ namespace ApiProjeKampi.Controllers
         [HttpPost]
         public IActionResult CreateContact(CreateContactDto createContactDto)
         {
+           
             try
             {
                 Contact contact = new Contact();
